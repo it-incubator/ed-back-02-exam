@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"name": "01-question",
+			"name": "get categories",
 			"item": [
 				{
 					"name": "get categories",
@@ -52,7 +52,7 @@
 			]
 		},
 		{
-			"name": "02-question",
+			"name": "get bitcoins",
 			"item": [
 				{
 					"name": "get bitcoins",
@@ -75,7 +75,7 @@
 			]
 		},
 		{
-			"name": "03-question",
+			"name": "question about body-parser",
 			"item": [
 				{
 					"name": "create book",
@@ -106,7 +106,7 @@
 			]
 		},
 		{
-			"name": "04-question",
+			"name": "question about correct middleware",
 			"item": [
 				{
 					"name": "get articles",
@@ -141,7 +141,7 @@
 			]
 		},
 		{
-			"name": "05-question",
+			"name": "addHackerResponseHeaders middleware",
 			"item": [
 				{
 					"name": "get",
@@ -176,7 +176,7 @@
 			]
 		},
 		{
-			"name": "06-question-update-book",
+			"name": "question about update book",
 			"item": [
 				{
 					"name": "update",
@@ -208,7 +208,7 @@
 			]
 		},
 		{
-			"name": "07-search-term",
+			"name": "search books term",
 			"item": [
 				{
 					"name": "get",
@@ -244,7 +244,7 @@
 			]
 		},
 		{
-			"name": "08-input-validation",
+			"name": "title input-validation",
 			"item": [
 				{
 					"name": "bad title",
@@ -275,7 +275,7 @@
 			]
 		},
 		{
-			"name": "09-input-validation",
+			"name": "year input-validation",
 			"item": [
 				{
 					"name": "bad year",
@@ -306,7 +306,7 @@
 			]
 		},
 		{
-			"name": "10-sanitazing",
+			"name": "sanitizing",
 			"item": [
 				{
 					"name": "returns sanitazed data",
